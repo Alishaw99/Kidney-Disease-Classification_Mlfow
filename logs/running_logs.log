@@ -17,3 +17,160 @@
 [2023-12-25 16:00:11,777: INFO: common: yaml file: params.yaml loaded successfully]
 [2023-12-25 16:00:11,779: INFO: common: created directory at: artifacts]
 [2023-12-25 16:00:11,780: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-12-25 18:01:05,588: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-25 18:01:05,599: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-25 18:01:05,601: INFO: common: created directory at: artifacts]
+[2023-12-25 18:01:05,603: INFO: common: created directory at: artifacts\training]
+[2023-12-25 18:01:35,838: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-25 18:01:35,843: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-25 18:01:35,845: INFO: common: created directory at: artifacts]
+[2023-12-25 18:01:35,847: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-12-25 18:01:43,174: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-12-25 18:02:56,605: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-25 18:02:56,607: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-25 18:02:56,609: INFO: common: created directory at: artifacts]
+[2023-12-25 18:02:56,610: INFO: common: created directory at: artifacts\training]
+[2023-12-25 18:05:39,770: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-25 18:05:39,774: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-25 18:05:39,776: INFO: common: created directory at: artifacts]
+[2023-12-25 18:05:39,778: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-12-25 18:05:40,237: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-12-25 18:08:17,470: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-25 18:08:17,474: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-25 18:08:17,476: INFO: common: created directory at: artifacts]
+[2023-12-25 18:08:17,477: INFO: common: created directory at: artifacts\training]
+[2023-12-26 16:42:37,007: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-26 16:42:37,023: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-26 16:42:37,025: INFO: common: created directory at: artifacts]
+[2023-12-26 16:42:37,027: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-26 16:42:37,028: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-26 16:45:36,842: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-26 16:48:25,566: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-26 16:48:25,569: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-26 16:48:25,571: INFO: common: created directory at: artifacts]
+[2023-12-26 16:48:25,572: INFO: common: created directory at: artifacts\training]
+[2023-12-26 16:52:12,366: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-26 16:52:12,370: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-26 16:52:12,371: INFO: common: created directory at: artifacts]
+[2023-12-26 16:52:12,373: INFO: common: created directory at: artifacts\training]
+[2023-12-27 09:38:43,826: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 09:38:43,844: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 09:38:43,847: INFO: common: created directory at: artifacts]
+[2023-12-27 09:38:43,849: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 09:38:43,850: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 09:54:54,002: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 09:54:54,007: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 09:54:54,011: INFO: common: created directory at: artifacts]
+[2023-12-27 09:54:54,012: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 09:54:54,014: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 11:21:13,586: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 11:21:13,589: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 11:21:13,591: INFO: common: created directory at: artifacts]
+[2023-12-27 11:21:13,595: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 11:21:13,598: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 11:23:24,008: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-27 11:23:24,019: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 11:23:24,020: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 11:23:24,021: INFO: common: created directory at: artifacts]
+[2023-12-27 11:23:24,021: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 11:23:24,021: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 11:24:38,224: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 11:26:46,076: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 11:26:46,658: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-12-27 12:02:09,808: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-27 12:02:09,811: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 12:02:09,816: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:02:09,817: INFO: common: created directory at: artifacts]
+[2023-12-27 12:02:09,817: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 12:02:09,817: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:02:09,823: ERROR: stage_01_data_ingestion: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000253AAF2D8E0>: Failed to resolve 'drive.google.com' ([Errno 11001] getaddrinfo failed)"))]
+Traceback (most recent call last):
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\connectionpool.py", line 1096, in _validate_conn
+    conn.connect()
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000253AAF2D8E0>: Failed to resolve 'drive.google.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000253AAF2D8E0>: Failed to resolve 'drive.google.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:/Kidney-Disease-Classification_Mlfow/src/cnnClassifier/pipeline/stage_01_data_ingestion", line 25, in <module>
+    obj.main()
+  File "d:/Kidney-Disease-Classification_Mlfow/src/cnnClassifier/pipeline/stage_01_data_ingestion", line 16, in main
+    data_ingestion.download_file()
+  File "d:\kidney-disease-classification_mlfow\src\cnnClassifier\components\data_ingestion.py", line 34, in download_file
+    raise e
+  File "d:\kidney-disease-classification_mlfow\src\cnnClassifier\components\data_ingestion.py", line 29, in download_file
+    gdown.download(prefix+file_id,zip_download_dir)
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\gdown\download.py", line 161, in download
+    res = sess.get(url, stream=True, verify=verify)
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Ali\miniconda3\envs\skl\lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000253AAF2D8E0>: Failed to resolve 'drive.google.com' ([Errno 11001] getaddrinfo failed)"))
+[2023-12-27 12:02:15,682: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 12:02:15,688: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:02:15,689: INFO: common: created directory at: artifacts]
+[2023-12-27 12:02:15,692: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 12:02:15,693: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:05:20,709: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 12:05:20,713: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:05:20,717: INFO: common: created directory at: artifacts]
+[2023-12-27 12:05:20,719: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 12:05:20,721: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:08:06,882: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:09:39,749: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-27 12:09:39,751: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 12:09:39,753: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:09:39,753: INFO: common: created directory at: artifacts]
+[2023-12-27 12:09:39,754: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 12:09:39,754: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:10:17,829: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-27 12:10:17,832: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 12:10:17,834: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:10:17,834: INFO: common: created directory at: artifacts]
+[2023-12-27 12:10:17,835: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 12:10:17,835: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:39:42,974: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-27 12:39:42,977: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:39:42,982: INFO: common: created directory at: artifacts]
+[2023-12-27 12:39:42,984: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 12:39:42,986: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:43:56,733: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
