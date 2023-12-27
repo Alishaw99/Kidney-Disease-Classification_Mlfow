@@ -13,3 +13,7 @@
 [2023-12-25 15:59:15,586: INFO: common: yaml file: params.yaml loaded successfully]
 [2023-12-25 15:59:15,587: INFO: common: created directory at: artifacts]
 [2023-12-25 15:59:15,589: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-12-25 16:00:11,775: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-12-25 16:00:11,777: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-25 16:00:11,779: INFO: common: created directory at: artifacts]
+[2023-12-25 16:00:11,780: INFO: common: created directory at: artifacts/prepare_base_model]
